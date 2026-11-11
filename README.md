@@ -7,15 +7,10 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+AI-powered+applications;Exploring+LLMs+%26+AI+Agents;Turning+ideas+into+working+projects;Always+learning+something+new." alt="Typing SVG" />
 
 <p>
-  <a href="https://github.com/Nawazaz">
-    <img src="https://img.shields.io/badge/GitHub-Nawazaz-181717?style=for-the-badge&logo=github" />
-  </a>
-  <a href="https://www.linkedin.com/in/mohammed-nawaz-pawaskar">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:mohammednawaz02@yahoo.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+<a href="https://github.com/Nawazaz"><img src="https://img.shields.io/badge/GitHub-Nawazaz-181717?style=for-the-badge&logo=github" /></a>
+<a href="https://www.linkedin.com/in/mohammed-nawaz-pawaskar"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" /></a>
+<a href="https://nawazaz.github.io/Portfolio/"><img src="https://img.shields.io/badge/Portfolio-Visit-6C63FF?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+<a href="mailto:mohammednawaz02@yahoo.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 </div>
@@ -26,13 +21,15 @@
 
 Hey! I'm Nawaz, an AI & Machine Learning Master's student at **Blekinge Institute of Technology (BTH), Sweden 🇸🇪**.
 
-I'm passionate about building practical applications using AI, machine learning and Python. I enjoy exploring how LLMs, AI agents and automation can be used to solve real-world problems.
+I'm passionate about building practical applications using AI, machine learning and Python. I enjoy exploring how LLMs, AI agents and automation can solve real-world problems.
 
-- 🤖 Currently experimenting with **LLMs, RAG and AI Agents**
-- 🧠 Interested in **Machine Learning and Deep Learning**
-- 💻 Building applications with **Python and modern AI tools**
-- 🔭 Working on AI-assisted infrastructure investigation
+- 🤖 Exploring LLMs, RAG and AI Agents
+- 🧠 Interested in Machine Learning and Deep Learning
+- 💻 Building applications with Python and modern AI tools
+- 🔭 Contributing to AI-assisted infrastructure investigation
 - 🎓 MSc Artificial Intelligence & Machine Learning (2025–2027)
+
+🌐 **[Visit My Portfolio](https://nawazaz.github.io/Portfolio/)**
 
 ---
 
@@ -121,13 +118,13 @@ I'm passionate about building practical applications using AI, machine learning 
 
 ---
 
-## 📊 GitHub Statistics
+## 📈 GitHub Activity
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Nawazaz&show_icons=true&theme=tokyonight&hide_border=true" />
+[![GitHub Profile](https://img.shields.io/badge/View%20My-GitHub%20Repositories-181717?style=for-the-badge&logo=github)](https://github.com/Nawazaz?tab=repositories)
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nawazaz&layout=compact&theme=tokyonight&hide_border=true" />
+**Explore my repositories and follow my development journey!**
 
 </div>
 
@@ -145,14 +142,13 @@ I'm passionate about building practical applications using AI, machine learning 
 
 <div align="center">
 
-### 💬 Let's Connect!
+## 💬 Let's Connect!
 
 **Always open to learning, collaborating and building something interesting.**
 
 <p>
-  <a href="https://www.linkedin.com/in/mohammed-nawaz-pawaskar">
-    <img src="https://img.shields.io/badge/LinkedIn-Mohammed%20Nawaz-0A66C2?style=for-the-badge&logo=linkedin" />
-  </a>
+<a href="https://www.linkedin.com/in/mohammed-nawaz-pawaskar"><img src="https://img.shields.io/badge/LinkedIn-Mohammed%20Nawaz-0A66C2?style=for-the-badge&logo=linkedin" /></a>
+<a href="https://nawazaz.github.io/Portfolio/"><img src="https://img.shields.io/badge/Portfolio-My%20Website-6C63FF?style=for-the-badge&logo=googlechrome" /></a>
 </p>
 
 <img src="https://komarev.com/ghpvc/?username=Nawazaz&style=flat-square&color=blue" alt="Profile views" />
