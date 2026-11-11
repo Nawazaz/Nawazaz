@@ -1,0 +1,59 @@
+<svg width="1200" height="290" viewBox="0 0 1200 290" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Loadout: languages, ML stack, tools">
+  <defs>
+    <linearGradient id="acc" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#00e5ff"/>
+      <stop offset="1" stop-color="#7c5cff"/>
+    </linearGradient>
+    <style>
+      .chip { fill: #10161e; stroke: #1f2a37; }
+      .t { font-family: 'JetBrains Mono','SF Mono','Fira Code',Consolas,'Courier New',monospace; }
+    </style>
+  </defs>
+
+  <rect x="0.5" y="0.5" width="1199" height="289" rx="12" fill="#0b0f14" stroke="#1f2a37"/>
+  <text class="t" x="40" y="46" font-size="14" fill="#5b6b7d" letter-spacing="3">// LOADOUT</text>
+  <rect x="40" y="58" width="48" height="2.5" rx="1.25" fill="url(#acc)"/>
+
+  <!-- row 1: languages -->
+  <text class="t" x="40" y="104" font-size="12" fill="#00e5ff" letter-spacing="3">LANG</text>
+  <g class="t" font-size="15" fill="#e6edf3">
+    <rect class="chip" x="160" y="84" width="104" height="30" rx="6"/><text x="212" y="104" text-anchor="middle">Python</text>
+    <rect class="chip" x="276" y="84" width="84" height="30" rx="6"/><text x="318" y="104" text-anchor="middle">C++</text>
+    <rect class="chip" x="372" y="84" width="84" height="30" rx="6"/><text x="414" y="104" text-anchor="middle">SQL</text>
+    <rect class="chip" x="468" y="84" width="112" height="30" rx="6"/><text x="524" y="104" text-anchor="middle">Bash</text>
+  </g>
+
+  <!-- row 2: ML -->
+  <text class="t" x="40" y="168" font-size="12" fill="#7c5cff" letter-spacing="3">ML</text>
+  <g class="t" font-size="15" fill="#e6edf3">
+    <rect class="chip" x="160" y="148" width="112" height="30" rx="6"/><text x="216" y="168" text-anchor="middle">PyTorch</text>
+    <rect class="chip" x="284" y="148" width="144" height="30" rx="6"/><text x="356" y="168" text-anchor="middle">scikit-learn</text>
+    <rect class="chip" x="440" y="148" width="104" height="30" rx="6"/><text x="492" y="168" text-anchor="middle">pandas</text>
+    <rect class="chip" x="556" y="148" width="104" height="30" rx="6"/><text x="608" y="168" text-anchor="middle">NumPy</text>
+    <rect class="chip" x="672" y="148" width="136" height="30" rx="6"/><text x="740" y="168" text-anchor="middle">Matplotlib</text>
+  </g>
+
+  <!-- row 3: tools -->
+  <text class="t" x="40" y="232" font-size="12" fill="#3ddc84" letter-spacing="3">TOOLS</text>
+  <g class="t" font-size="15" fill="#e6edf3">
+    <rect class="chip" x="160" y="212" width="84" height="30" rx="6"/><text x="202" y="232" text-anchor="middle">Git</text>
+    <rect class="chip" x="256" y="212" width="112" height="30" rx="6"/><text x="312" y="232" text-anchor="middle">Docker</text>
+    <rect class="chip" x="380" y="212" width="112" height="30" rx="6"/><text x="436" y="232" text-anchor="middle">Jupyter</text>
+    <rect class="chip" x="504" y="212" width="96" height="30" rx="6"/><text x="552" y="232" text-anchor="middle">Linux</text>
+  </g>
+
+  <!-- decorative right-hand block -->
+  <g transform="translate(900 84)" opacity="0.9">
+    <g fill="none" stroke="#1f2a37" stroke-width="1">
+      <rect x="0" y="0" width="260" height="158" rx="8"/>
+      <path d="M0 40H260M0 80H260M0 120H260M65 0V158M130 0V158M195 0V158"/>
+    </g>
+    <polyline points="0,26 40,44 80,38 120,84 160,76 200,116 260,132" fill="none" stroke="url(#acc)" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
+      <animate attributeName="stroke-dasharray" from="0 500" to="500 0" dur="2.4s" fill="freeze"/>
+    </polyline>
+    <circle cx="260" cy="132" r="4" fill="#00e5ff">
+      <animate attributeName="opacity" values="1;0.3;1" dur="2s" repeatCount="indefinite"/>
+    </circle>
+    <text class="t" x="0" y="-12" font-size="11" fill="#5b6b7d" letter-spacing="3">loss ↓</text>
+  </g>
+</svg>
