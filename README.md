@@ -10,11 +10,11 @@
   <a href="https://github.com/Nawazaz">
     <img src="https://img.shields.io/badge/GitHub-Nawazaz-181717?style=for-the-badge&logo=github" />
   </a>
+  <a href="https://www.linkedin.com/in/mohammed-nawaz-pawaskar">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
   <a href="mailto:mohammednawaz02@yahoo.com">
     <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="YOUR_LINKEDIN_URL">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
   </a>
 </p>
 
@@ -22,64 +22,45 @@
 
 ---
 
-## 🧑‍💻 About Me
+## 👨‍💻 About Me
 
-```python
-class Nawaz:
-    def __init__(self):
-        self.name = "Mohammed Nawaz"
-        self.location = "Sweden 🇸🇪"
-        self.education = "MSc Artificial Intelligence & Machine Learning @ BTH"
-        self.interests = [
-            "Artificial Intelligence",
-            "Machine Learning",
-            "Generative AI & LLMs",
-            "AI Agents & Automation",
-            "Python Development"
-        ]
-        self.currently_learning = [
-            "Deep Learning",
-            "RAG Systems",
-            "LLM Tool Calling",
-            "Cloud & AI Infrastructure"
-        ]
+Hey! I'm Nawaz, an AI & Machine Learning Master's student at **Blekinge Institute of Technology (BTH), Sweden 🇸🇪**.
 
-    def say_hi(self):
-        print("Thanks for visiting my GitHub! 🚀")
+I'm passionate about building practical applications using AI, machine learning and Python. I enjoy exploring how LLMs, AI agents and automation can be used to solve real-world problems.
 
-me = Nawaz()
-me.say_hi()
-```
-
-I'm an AI and Machine Learning Master's student at **Blekinge Institute of Technology (BTH), Sweden**.
-
-I enjoy experimenting with emerging AI technologies and building practical applications that combine machine learning, software development and automation.
-
-Currently exploring how AI agents and LLM-powered systems can solve real-world problems.
+- 🤖 Currently experimenting with **LLMs, RAG and AI Agents**
+- 🧠 Interested in **Machine Learning and Deep Learning**
+- 💻 Building applications with **Python and modern AI tools**
+- 🔭 Working on AI-assisted infrastructure investigation
+- 🎓 MSc Artificial Intelligence & Machine Learning (2025–2027)
 
 ---
 
 ## ⚡ Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,c,kotlin,js,html,css" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,flask,fastapi,azure,git,github,docker,mysql,arduino" />
-</p>
+### 💻 Programming Languages
 
-**AI & Generative AI**
+<img src="https://skillicons.dev/icons?i=python,java,cpp,c,kotlin,js,html,css" />
 
-`Machine Learning` · `Deep Learning` · `LLMs` · `RAG` · `ChromaDB` · `LangChain` · `Groq API` · `Tool Calling`
+### 🧠 AI & Machine Learning
 
-**Development & Data**
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
 
-`Python` · `PySide6` · `REST APIs` · `SQL` · `Pandas` · `NumPy` · `Power BI`
+`Scikit-learn` · `Pandas` · `NumPy` · `Deep Learning` · `LLMs` · `RAG` · `ChromaDB` · `LangChain` · `Groq API`
 
-**Infrastructure & Monitoring**
+### 🛠️ Development & Tools
+
+<img src="https://skillicons.dev/icons?i=flask,git,github,azure,mysql,docker,arduino" />
+
+`PySide6` · `REST APIs` · `Power BI` · `Jupyter Notebook`
+
+### ☁️ Cloud & Infrastructure
 
 `Azure` · `Kubernetes` · `Grafana` · `Prometheus` · `OpenTelemetry`
+
+</div>
 
 ---
 
@@ -89,7 +70,7 @@ Currently exploring how AI agents and LLM-powered systems can solve real-world p
 
 **A personal AI assistant that lives on your desktop.**
 
-- Built with Python and PySide6.
+- Built using Python and PySide6.
 - Integrated Groq-powered conversational AI.
 - Implemented RAG-based long-term memory using ChromaDB.
 - Added natural-language tool execution for launching applications and managing timers.
@@ -134,7 +115,7 @@ Currently exploring how AI agents and LLM-powered systems can solve real-world p
 - Engineered 23+ features from market and sentiment data.
 - Evaluated five machine learning models.
 - Achieved approximately 62% test accuracy.
-- Analysed 49,000+ crypto-related tweets using VADER.
+- Analysed 49,000+ crypto-related tweets using VADER sentiment analysis.
 
 `Python` `Scikit-learn` `Pandas` `NLP` `Machine Learning`
 
@@ -144,11 +125,9 @@ Currently exploring how AI agents and LLM-powered systems can solve real-world p
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Nawazaz&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Nawazaz&show_icons=true&theme=tokyonight&hide_border=true" />
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nawazaz&layout=compact&theme=tokyonight&hide_border=true" />
-
-<img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=Nawazaz&theme=tokyonight&hide_border=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nawazaz&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -170,8 +149,14 @@ Currently exploring how AI agents and LLM-powered systems can solve real-world p
 
 **Always open to learning, collaborating and building something interesting.**
 
+<p>
+  <a href="https://www.linkedin.com/in/mohammed-nawaz-pawaskar">
+    <img src="https://img.shields.io/badge/LinkedIn-Mohammed%20Nawaz-0A66C2?style=for-the-badge&logo=linkedin" />
+  </a>
+</p>
+
 <img src="https://komarev.com/ghpvc/?username=Nawazaz&style=flat-square&color=blue" alt="Profile views" />
 
-⭐ *Thanks for stopping by!*
+⭐ Thanks for stopping by!
 
 </div>
