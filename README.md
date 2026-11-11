@@ -1,79 +1,177 @@
-<h2 align="left">Hi 👋! My name is Mohammed Nawaz and I'm studying at Kristianstad University, pursuing Computer Science Engineering.</h2>
+ <div align="center">
 
-###
+# 👋 Hey, I'm Nawaz!
+
+### AI & Machine Learning Student · Python Developer · AI Enthusiast
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+AI-powered+applications;Exploring+LLMs+%26+AI+Agents;Turning+ideas+into+working+projects;Always+learning+something+new." alt="Typing SVG" />
+
+<p>
+  <a href="https://github.com/Nawazaz">
+    <img src="https://img.shields.io/badge/GitHub-Nawazaz-181717?style=for-the-badge&logo=github" />
+  </a>
+  <a href="mailto:mohammednawaz02@yahoo.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="YOUR_LINKEDIN_URL">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
+  </a>
+</p>
+
+</div>
+
+---
+
+## 🧑‍💻 About Me
+
+```python
+class Nawaz:
+    def __init__(self):
+        self.name = "Mohammed Nawaz"
+        self.location = "Sweden 🇸🇪"
+        self.education = "MSc Artificial Intelligence & Machine Learning @ BTH"
+        self.interests = [
+            "Artificial Intelligence",
+            "Machine Learning",
+            "Generative AI & LLMs",
+            "AI Agents & Automation",
+            "Python Development"
+        ]
+        self.currently_learning = [
+            "Deep Learning",
+            "RAG Systems",
+            "LLM Tool Calling",
+            "Cloud & AI Infrastructure"
+        ]
+
+    def say_hi(self):
+        print("Thanks for visiting my GitHub! 🚀")
+
+me = Nawaz()
+me.say_hi()
+```
+
+I'm an AI and Machine Learning Master's student at **Blekinge Institute of Technology (BTH), Sweden**.
+
+I enjoy experimenting with emerging AI technologies and building practical applications that combine machine learning, software development and automation.
+
+Currently exploring how AI agents and LLM-powered systems can solve real-world problems.
+
+---
+
+## ⚡ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,c,kotlin,js,html,css" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,flask,fastapi,azure,git,github,docker,mysql,arduino" />
+</p>
+
+**AI & Generative AI**
+
+`Machine Learning` · `Deep Learning` · `LLMs` · `RAG` · `ChromaDB` · `LangChain` · `Groq API` · `Tool Calling`
+
+**Development & Data**
+
+`Python` · `PySide6` · `REST APIs` · `SQL` · `Pandas` · `NumPy` · `Power BI`
+
+**Infrastructure & Monitoring**
+
+`Azure` · `Kubernetes` · `Grafana` · `Prometheus` · `OpenTelemetry`
+
+---
+
+## 🚀 Featured Projects
+
+### 🤖 [Desktop AI Companion](https://github.com/Nawazaz/Desktop-Companion)
+
+**A personal AI assistant that lives on your desktop.**
+
+- Built with Python and PySide6.
+- Integrated Groq-powered conversational AI.
+- Implemented RAG-based long-term memory using ChromaDB.
+- Added natural-language tool execution for launching applications and managing timers.
+- Packaged the application using PyInstaller.
+
+`Python` `PySide6` `Groq` `ChromaDB` `RAG`
+
+---
+
+### 🌱 [AI-Based Plant Monitoring System](https://github.com/Nawazaz/Plant-monitoring-system)
+
+**An IoT-powered plant monitoring and disease detection system.**
+
+- Integrated environmental sensors, camera and automated irrigation.
+- Developed a CNN-based plant disease classifier.
+- Trained on 18,000+ images with 95% validation accuracy.
+- Improved real-world detection results through system-captured image augmentation.
+
+`Python` `TensorFlow` `CNN` `IoT` `Azure`
+
+---
+
+### 🧠 Autonomous SRE Agent
+
+**AI-assisted investigation of infrastructure incidents.**
+
+- Contributing to an AI-powered incident investigation workflow.
+- Developed Python components for validating Grafana alert payloads.
+- Transformed monitoring alerts into structured investigation requests.
+- Working with Kubernetes, Grafana, Prometheus and OpenTelemetry.
+
+`Python` `AI Agents` `Grafana` `Kubernetes` `OpenTelemetry`
+
+*Private team repository — selected contributions are not publicly accessible.*
+
+---
+
+### 📈 Cryptocurrency Price Prediction System
+
+**Machine learning-based Bitcoin movement prediction.**
+
+- Engineered 23+ features from market and sentiment data.
+- Evaluated five machine learning models.
+- Achieved approximately 62% test accuracy.
+- Analysed 49,000+ crypto-related tweets using VADER.
+
+`Python` `Scikit-learn` `Pandas` `NLP` `Machine Learning`
+
+---
+
+## 📊 GitHub Statistics
 
 <div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Nawazaz&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nawazaz&layout=compact&theme=tokyonight&hide_border=true" />
+
+<img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=Nawazaz&theme=tokyonight&hide_border=true" />
+
 </div>
 
-###
+---
 
-<img align="right" height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2VmNGk3cXFoaWw5ZHlhamR5c3N1ZG8zaHloMW5kdnhuZGFpOTNpMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IpeYSEZshTefe/giphy.gif"  />
+## 🎯 Currently
 
-###
+- 🎓 Pursuing my Master's in AI & Machine Learning at BTH.
+- 🤖 Building and experimenting with AI agents.
+- 🧠 Exploring Generative AI, RAG and LLM applications.
+- 💻 Improving my software engineering and cloud infrastructure skills.
+- 🔍 Looking for opportunities to work on meaningful AI projects.
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="30" alt="android logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="30" alt="azure logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="30" alt="dart logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="30" alt="flutter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="30" alt="gitlab logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="30" alt="intellij logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="30" alt="jira logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="30" alt="kotlin logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="30" alt="linkedin logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="30" alt="matlab logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="30" alt="nginx logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="30" alt="npm logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="30" alt="raspberrypi logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" height="30" alt="slack logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="30" alt="sqlite logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="30" alt="visualstudio logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg" height="30" alt="unrealengine logo"  />
-</div>
+---
 
-###
+<div align="center">
 
-<div align="left">
+### 💬 Let's Connect!
 
-  <a href="https://www.linkedin.com/in/mohammed-nawaz-pawaskar-b246b9263/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
+**Always open to learning, collaborating and building something interesting.**
+
+<img src="https://komarev.com/ghpvc/?username=Nawazaz&style=flat-square&color=blue" alt="Profile views" />
+
+⭐ *Thanks for stopping by!*
+
 </div>
