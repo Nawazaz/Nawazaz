@@ -1,0 +1,68 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="430" viewBox="0 0 1400 430" role="img" aria-labelledby="title desc">
+  <title id="title">Nawaz profile banner</title>
+  <desc id="desc">A futuristic cyber arcade interface with a neon violet and cyan HUD, grid floor, status readouts and the title Nawaz.exe.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#080b16"/><stop offset="0.52" stop-color="#10162a"/><stop offset="1" stop-color="#090d19"/>
+    </linearGradient>
+    <linearGradient id="titleGrad" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#f3f6ff"/><stop offset="0.46" stop-color="#b9a5ff"/><stop offset="1" stop-color="#5ee7ff"/>
+    </linearGradient>
+    <linearGradient id="cyan" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#2ce8e8"/><stop offset="1" stop-color="#7b71ff"/></linearGradient>
+    <radialGradient id="glowV"><stop stop-color="#784cff" stop-opacity=".35"/><stop offset="1" stop-color="#784cff" stop-opacity="0"/></radialGradient>
+    <radialGradient id="glowC"><stop stop-color="#23dff2" stop-opacity=".22"/><stop offset="1" stop-color="#23dff2" stop-opacity="0"/></radialGradient>
+    <pattern id="dots" width="24" height="24" patternUnits="userSpaceOnUse"><circle cx="1.5" cy="1.5" r="1" fill="#aab5d9" opacity=".22"/></pattern>
+    <pattern id="scan" width="4" height="5" patternUnits="userSpaceOnUse"><path d="M0 4.5H4" stroke="#b9c6ed" stroke-opacity=".035"/></pattern>
+    <filter id="soft"><feGaussianBlur stdDeviation="18"/></filter>
+    <filter id="neon" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+    <clipPath id="round"><rect width="1400" height="430" rx="24"/></clipPath>
+  </defs>
+  <g clip-path="url(#round)">
+    <rect width="1400" height="430" fill="url(#bg)"/>
+    <circle cx="270" cy="100" r="270" fill="url(#glowV)"/>
+    <circle cx="1210" cy="280" r="330" fill="url(#glowC)"/>
+    <rect width="1400" height="430" fill="url(#dots)" opacity=".55"/>
+    <rect width="1400" height="430" fill="url(#scan)"/>
+    <!-- orbital arcs -->
+    <g fill="none" stroke-linecap="round">
+      <path d="M980 92 C1115 18 1310 33 1370 151" stroke="#7b71ff" stroke-width="1.5" opacity=".5"/>
+      <path d="M1010 112 C1130 51 1285 60 1348 163" stroke="#35e2ef" stroke-width="1" opacity=".35"/>
+      <circle cx="1198" cy="154" r="92" stroke="#6f65ff" stroke-width="1.5" opacity=".5"/>
+      <circle cx="1198" cy="154" r="70" stroke="#45e6ef" stroke-width="1" stroke-dasharray="5 10" opacity=".7"/>
+      <circle cx="1198" cy="154" r="43" stroke="#a78bfa" stroke-width="1" opacity=".8"/>
+      <path d="M1198 48V82 M1198 226V260 M1092 154H1126 M1270 154H1304" stroke="#64e9f4" stroke-width="2" opacity=".7"/>
+    </g>
+    <circle cx="1198" cy="154" r="17" fill="#6b5cff" opacity=".28" filter="url(#soft)"/>
+    <circle cx="1198" cy="154" r="5" fill="#6befff" filter="url(#neon)"/>
+    <!-- perspective grid -->
+    <g transform="translate(0 282)" opacity=".45">
+      <path d="M0 0H1400 M0 30H1400 M0 68H1400 M0 118H1400 M0 174H1400" stroke="#4b63a5" stroke-width="1"/>
+      <path d="M700 0L0 174 M700 0L160 174 M700 0L320 174 M700 0L480 174 M700 0L620 174 M700 0L780 174 M700 0L920 174 M700 0L1080 174 M700 0L1240 174 M700 0L1400 174" stroke="#6656de" stroke-width="1"/>
+      <path d="M0 0H1400" stroke="#43e6ef" stroke-width="2" filter="url(#neon)" opacity=".75"/>
+    </g>
+    <!-- interface frame -->
+    <rect x="34" y="28" width="1332" height="374" rx="18" fill="none" stroke="#7585b8" stroke-opacity=".28"/>
+    <path d="M34 82V48Q34 28 54 28H118 M1282 28H1346Q1366 28 1366 48V88 M34 342V382Q34 402 54 402H118 M1282 402H1346Q1366 402 1366 382V342" fill="none" stroke="url(#cyan)" stroke-width="3" filter="url(#neon)"/>
+    <!-- top left system tag -->
+    <rect x="72" y="62" width="245" height="27" rx="5" fill="#131d34" stroke="#485b8e" stroke-opacity=".75"/>
+    <circle cx="89" cy="75.5" r="4" fill="#66f0d0" filter="url(#neon)"/>
+    <text x="103" y="80" font-family="monospace" font-size="12" letter-spacing="2.4" fill="#9eb3d8">PROFILE.SYS // ONLINE</text>
+    <!-- main typography -->
+    <text x="78" y="193" font-family="Arial, Helvetica, sans-serif" font-size="89" font-weight="800" letter-spacing="7" fill="#02050d" opacity=".85">NAWAZ.EXE</text>
+    <text x="74" y="187" font-family="Arial, Helvetica, sans-serif" font-size="89" font-weight="800" letter-spacing="7" fill="url(#titleGrad)">NAWAZ.EXE</text>
+    <path d="M80 212H760" stroke="url(#cyan)" stroke-width="2" opacity=".8"/>
+    <text x="82" y="252" font-family="monospace" font-size="19" letter-spacing="4" fill="#d9e2fa">AI / ML DEVELOPER</text>
+    <text x="82" y="282" font-family="monospace" font-size="13" letter-spacing="2.5" fill="#8fa4cb">BUILD INTELLIGENT THINGS. PLAY WITH IDEAS.</text>
+    <!-- right readout -->
+    <g transform="translate(1030 293)">
+      <rect x="0" y="0" width="278" height="68" rx="8" fill="#0b1223" fill-opacity=".88" stroke="#5966a0" stroke-opacity=".65"/>
+      <text x="17" y="21" font-family="monospace" font-size="10" letter-spacing="2" fill="#8a9fc6">CURRENT MODE</text>
+      <text x="17" y="45" font-family="monospace" font-size="17" font-weight="bold" fill="#67e8f9">BUILD // PLAY // REPEAT</text>
+      <circle cx="256" cy="17" r="4" fill="#5ef0c3" filter="url(#neon)"/>
+    </g>
+    <!-- small HUD labels -->
+    <text x="74" y="370" font-family="monospace" font-size="10" letter-spacing="2" fill="#6d80aa">SWEDEN · BTH · 2025—2027</text>
+    <text x="1320" y="76" text-anchor="end" font-family="monospace" font-size="10" letter-spacing="2" fill="#7f91bb">SYS.ID / NZ-026</text>
+    <text x="1320" y="390" text-anchor="end" font-family="monospace" font-size="10" letter-spacing="2" fill="#7f91bb">SIGNAL: ACTIVE</text>
+  </g>
+</svg>
